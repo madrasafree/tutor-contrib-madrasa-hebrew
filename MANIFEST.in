@@ -1,0 +1,2 @@
+recursive-include madrasa_hebrew/patches *
+recursive-include madrasa_hebrew/templates *
