@@ -143,6 +143,7 @@ hooks.Filters.ENV_TEMPLATE_TARGETS.add_items(
     [
         ("madrasa_hebrew/build", "plugins"),
         ("madrasa_hebrew/apps", "plugins"),
+        ("mfe/i18n/", "plugins/mfe/build"),
     ],
 )
 
